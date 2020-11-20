@@ -7,7 +7,7 @@ usage()
 	echo "# Usage : "
 	echo " ./test.sh <input_file_name> "
 	echo " -h   Help"
-	echo "ex) ./devops.sh sar.file"
+	echo "ex) ./test.sh sar.file"
 	exit
 }
 
